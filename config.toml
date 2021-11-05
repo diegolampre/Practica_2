@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Practica 1"
+theme='learn'
+
+[outputs]
+home=['HTML','JSON','RSS']
+
+
