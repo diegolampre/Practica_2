@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://diegolampre.github.io/Practica_2/"
+#baseURL = "https://eejmplo.com"
 languageCode = "en-us"
 title = "Practica 1"
 theme='learn'

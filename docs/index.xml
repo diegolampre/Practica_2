@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Practica 1</title>
-    <link>http://example.org/</link>
+    <link>https://diegolampre.github.io/Practica_2/</link>
     <description>Recent content on Practica 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Sep 2021 17:53:21 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diegolampre.github.io/Practica_2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ejercicio 1</title>
-      <link>http://example.org/ejercicios/ejercicio1/</link>
+      <link>https://diegolampre.github.io/Practica_2/ejercicios/ejercicio1/</link>
       <pubDate>Tue, 28 Sep 2021 17:53:21 +0200</pubDate>
       
-      <guid>http://example.org/ejercicios/ejercicio1/</guid>
+      <guid>https://diegolampre.github.io/Practica_2/ejercicios/ejercicio1/</guid>
       <description>Ejercicio 1 Definición de Cliente-Servidor y lenguaje Mermaid El modelo cliente-servidor representa la forma en la que se producen las comunicacion entre dos nodos de una red. Uno de los nodos tiene el rol de cliente y el otro el rol de servidor.
 La mayoria de los casos los elementos que dan uso a este modelo son aplicaciones/programas.
 Aplicación cliente: Es el elemento de la comunicacion que solicita un servicio de red, por ejemplo el acceso a una pagina web.</description>
@@ -24,10 +24,10 @@ Aplicación cliente: Es el elemento de la comunicacion que solicita un servicio 
     
     <item>
       <title>Ejercicio 2</title>
-      <link>http://example.org/ejercicios/ejercicio2/</link>
+      <link>https://diegolampre.github.io/Practica_2/ejercicios/ejercicio2/</link>
       <pubDate>Tue, 28 Sep 2021 17:53:21 +0200</pubDate>
       
-      <guid>http://example.org/ejercicios/ejercicio2/</guid>
+      <guid>https://diegolampre.github.io/Practica_2/ejercicios/ejercicio2/</guid>
       <description>Ejercicio 2 Definicion de varias herrameientas/tecnologias Babel: Nos permite transformar nuestro codigo JS de ultima generacion a un codigo de Javascript que cualquier navegador pueda entender. Babel
 WebPack: Es un paquete de modulos de JavaScript de codigo abierto. Se creo para JavaScript pero puede transformar activos de front-end como HTML. WebPack
 Prototype: Es un framework escrito en JavaScript que se orienta al desarrollo sencillo y dinamico de aplicaciones web. Prototype</description>
@@ -35,10 +35,10 @@ Prototype: Es un framework escrito en JavaScript que se orienta al desarrollo se
     
     <item>
       <title>Ejercicio 3</title>
-      <link>http://example.org/ejercicios/ejercicio3/</link>
+      <link>https://diegolampre.github.io/Practica_2/ejercicios/ejercicio3/</link>
       <pubDate>Tue, 28 Sep 2021 17:53:21 +0200</pubDate>
       
-      <guid>http://example.org/ejercicios/ejercicio3/</guid>
+      <guid>https://diegolampre.github.io/Practica_2/ejercicios/ejercicio3/</guid>
       <description>Ejercicio 3 Arquitecturas XAMPP: paquete de software libre, que consiste principalmente en el sistema de gestión de bases de datos MySQL, el servidor web Apache y los intérpretes para lenguajes de script PHP y Perl.
 WAMPP: WAMP es un acrónimo que significa Windows, Apache, MySQL y PHP. Es un conjunto de soluciones de software que significa que cuando instalas WAMP, estás instalando Apache, MySQL y PHP en tu sistema operativo.</description>
     </item>
