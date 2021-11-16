@@ -1,0 +1,50 @@
+[
+{
+	"uri": "https://diegolampre.github.io/Practica_2/ejercicios/ejercicio1/",
+	"title": "Ejercicio 1",
+	"tags": [],
+	"description": "",
+	"content": "Ejercicio 1 Definición de Cliente-Servidor y lenguaje Mermaid El modelo cliente-servidor representa la forma en la que se producen las comunicacion entre dos nodos de una red. Uno de los nodos tiene el rol de cliente y el otro el rol de servidor.\nLa mayoria de los casos los elementos que dan uso a este modelo son aplicaciones/programas.\nAplicación cliente: Es el elemento de la comunicacion que solicita un servicio de red, por ejemplo el acceso a una pagina web.\nAplicación servidor: Es el elemento de comunicacion que responde las peticiones de los clientes, proveyendo los servicios requeridos, por ejemplo enviando la pagina web.\nEn la siguiente figura se representa la comunicación mas tipica de internet, la conexion a una pagina web.\nEn esta imagen se puede observar la comunicacion que sigue el modelo cliente-servidor, donde el navegador web con el que queremos acceder a una pagina web seria el Host A y el proceso que atiende al cliente seria el Host B que tiene el rol de servidor.\ngraph LR; A[Cliente 2] --- B(Internet) D[Cliente 1] --- B(Internet) E[Cliente 3] --- B(Internet) B --- C{Equipo Servidor}  DNS: Es un sistema de nombres de dominios, traduce los nombres de dominios (www.amazon.com) a direcciones IP aptas para lectura por parte de maquinas(192.0.2.44).\nEl servidor DNS utiliza una base de datos distribuida y jerarquica que almacena informacion asociada a nombres de dominio en redes como Internet.\n"
+},
+{
+	"uri": "https://diegolampre.github.io/Practica_2/ejercicios/ejercicio2/",
+	"title": "Ejercicio 2",
+	"tags": [],
+	"description": "",
+	"content": "Ejercicio 2 Definicion de varias herrameientas/tecnologias Babel: Nos permite transformar nuestro codigo JS de ultima generacion a un codigo de Javascript que cualquier navegador pueda entender. Babel\nWebPack: Es un paquete de modulos de JavaScript de codigo abierto. Se creo para JavaScript pero puede transformar activos de front-end como HTML. WebPack\nPrototype: Es un framework escrito en JavaScript que se orienta al desarrollo sencillo y dinamico de aplicaciones web. Prototype\nPolyfill: Es un modulo de codigo que hace que las funciones modernas de HTML, CSS o JavaScript esten disponibles en navegadores antiguos que ya no son compatibles con estas. Polyfill\nPHP: Es un lenguaje de programación de uso general en el desarrollo web. Fue creado por Rasmus Lerdorf. PHP\nFrameworks de PHP: Es una plataforma para crear aplicaciones web PHP. Proporcionan bibliotecas de codigo para funciones de uso comun.\nDJango: Es un framework de desarrollo web e codigo abierto, escrito en Python. DJango\nJSP: Es una tecnologia que ayuda a los desarrolladores de software a crear paginas web dinamicas basadas en HTML y XML. JSP\nCSS: Es un lenguaje que maneja el diseño y presentación de las páginas web. CSS\nBootstrap: Es un framework que combina CSS y JavaScript para estilizar los elementos de una pagina HTML. Bootstrap\nVue: Es un framework de JavaScript, para la construccion de interfaces de usuario y aplicaciones de una sola pagina. Vue\nReact: Es una biblioteca de javascript diseñada para crear interfaces de usuario. React\nAngular: Es un framework desarrollado por Google para facilitar la creacion y programacion de aplicaciones web de una sola pagina. Angular\nJavaScript: Es un lenguaje de programacion que te permite implementar funciones complejas en paginas web. JavaScript\nTypeScript: Es un lenguaje de programacion desarrollado por Microsoft. Es un superconjunto de JavaScript. TypeScript\nJQuery: Es una biblioteca de JavaScript, que permite simplificar la manera de interactuar con los documentos HTML. JQuery\nGatsby: Es un generador de sitios estaticos construido con ReactJS y alimentado por GraphQL. Gatsby\nHugo: Es un generador de sitios estaticos creado por Google. Hugo\nJekyll: Es un generador simple para sitios estaticos con capacidades de blog. Jekyll\nPelican: Es un constructor de sitios web estaticos programado en Python que no necesita una base de datos. Pelican\nScraping: Es una tecnica utilizada mediante programas de software para extraer informacion de sitios web. Scraping\nHeroku: Es una plataforma de computacion en la nube que soporta varios lenguajes de programacion. Heroku\nVuespress: Es un generador de sitios web, pensado para escribir documentacion de los propios proyectos de Vue. Vuespress\n"
+},
+{
+	"uri": "https://diegolampre.github.io/Practica_2/ejercicios/ejercicio3/",
+	"title": "Ejercicio 3",
+	"tags": [],
+	"description": "",
+	"content": "Ejercicio 3 Arquitecturas XAMPP: paquete de software libre, que consiste principalmente en el sistema de gestión de bases de datos MySQL, el servidor web Apache y los intérpretes para lenguajes de script PHP y Perl.\nWAMPP: WAMP es un acrónimo que significa Windows, Apache, MySQL y PHP. Es un conjunto de soluciones de software que significa que cuando instalas WAMP, estás instalando Apache, MySQL y PHP en tu sistema operativo.\nLAMPP: El acrónimo LAMP se refiere a un grupo de 4 tecnologías: Sistema operativo Linux, un servidor web Apache, una base de datos MySQL y lenguaje de programación PHP.\nMEAN: Es un acrónimo para MongoDB, Express.js, AngularJS, Node.js es un framework o conjunto de subsistemas de software para el desarrollo de aplicaciones y páginas web dinámicas.\nLEMP: Es un servidor basado en Linux y que cuenta con una serie de aplicaciones y configuraciones especialmente diseñadas para alojar páginas web.\nAMPPS: Es un servidor local de Apache, Mysql, Php, Perl y Python.\nBitNami: Es una plataforma que nos permite montar y configurar fácilmente todo tipo de aplicaciones web y servidores de manera similar a como funciona Docker.\n"
+},
+{
+	"uri": "https://diegolampre.github.io/Practica_2/ejercicios/",
+	"title": "Ejercicios",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://diegolampre.github.io/Practica_2/",
+	"title": "Practica 1",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://diegolampre.github.io/Practica_2/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://diegolampre.github.io/Practica_2/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
